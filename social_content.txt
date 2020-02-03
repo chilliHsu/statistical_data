@@ -1,0 +1,5 @@
+IG_social_avg_max_total
+ [num_of_followers,avg_likes,avg_comments,max_likes,max_comments,total_likes,total_comments]
+
+YouTube_social_avg_total
+ [subs,views,avg_views, avg_comments,avg_likes,avg_dislikes,total_views,total_comments,total_likes,total_dislikes]
